@@ -9,4 +9,4 @@ class Books
 
 end
 
-divergent_series = Books.new ("Allegient", "Veronica Roth", "350")
+divergent_series = Books.new ("Allegient", "Veronica Roth", "350 pages")
